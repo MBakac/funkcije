@@ -51,8 +51,7 @@
     Funkcija je strogo rastuća.
 
 \subsubsection{Omeđenost \eksp}
-    Funkcija je omeđena odozdo nulom.
-    \[m = \lim_{x \to -\inf} a^x = 0 \]
+    Funkcija nije omeđena.
 
 \subsubsection{Injektivnost i surjektivnost \eksp}
     Eksponencijalna funkcija je bijekcija. Injekcija je jer vrijedi:
@@ -66,7 +65,7 @@
     Surjektivna je po definiciju, dakle bijekcija je.
 
 \subsubsection{Inverz \eksp}
-    Inverz eksponencijalne funkcije je logaritamska funkcija.
+    Inverz logaritamske funkcije je eksponencijalna funkcija.
     \begin{figure}[ht]
         \centering
         \begin{tikzpicture}
@@ -81,12 +80,12 @@
                     color = red,
                     samples = 100
                 ]{2^x};
-                \addlegendentry{\(f(x) = 2^x\)}
+                \addlegendentry{\(f^{-1}(x) = 2^x\)}
                 \addplot[
                     color = blue,
                     samples = 100
                 ]{log2(x)};
-                \addlegendentry{\(f^{-1}(x) = log_2x\)}
+                \addlegendentry{\(f(x) = log_2x\)}
             \end{axis}
         \end{tikzpicture}
         \caption{Grafovi funkcije i njenzinog inverzna}
