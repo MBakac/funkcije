@@ -1,0 +1,71 @@
+\babel@toc {croatian}{}
+\contentsline {section}{\numberline {1}Definicije}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Domena i kodomena funkcije}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Nultočke i točke u kojima graf sječe y-os }{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Parnost i neparnost }{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Periodičnost}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Monotonost }{5}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Omeđenost}{6}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Injektivnost i surjektivnost }{6}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Inverz funkcije}{7}{subsection.1.8}%
+\contentsline {section}{\numberline {2}Funkcije}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Linearna funkcija}{8}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Domena i kodomena linearne funkcije}{8}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Graf linearne funkcije}{8}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Nultočke i točke u kojima graf sječe y-os linearne funkcije}{8}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Parnost i neparnost linearne funkcije}{9}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Periodičnost linearne funkcije}{10}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}Monotonost linearne funkcije}{10}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}Omeđenost linearne funkcije}{10}{subsubsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.8}Injektivnost i surjektivnost linearne funkcije}{10}{subsubsection.2.1.8}%
+\contentsline {subsubsection}{\numberline {2.1.9}Inverz linearne funkcije}{10}{subsubsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.2}Kvadratna funkcija}{11}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Domena i kodomena kvadratne funkcije}{11}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Graf kvadratne funkcije}{11}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Nultočke i točke u kojima graf sječe y-os kvadratne funkcije}{11}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Parnost i neparnost kvadratne funkcije}{12}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Periodičnost kvadratne funkcije}{12}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Monotonost kvadratne funkcije}{12}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.7}Omeđenost kvadratne funkcije}{13}{subsubsection.2.2.7}%
+\contentsline {subsubsection}{\numberline {2.2.8}Injektivnost i surjektivnost kvadratne funkcije}{13}{subsubsection.2.2.8}%
+\contentsline {subsubsection}{\numberline {2.2.9}Inverz kvadratne funkcije}{13}{subsubsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.3}Funkcija apsolutne vrijednosti}{13}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Domena i kodomena funkcije apsolutne vrijednosti}{13}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Graf funkcije apsolutne vrijednosti}{14}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Nultočke i točke u kojima graf sječe y-os funkcije apsolutne vrijednosti}{14}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Parnost i neparnost funkcije apsolutne vrijednosti}{14}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Periodičnost funkcije apsolutne vrijednosti}{14}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}Monotonost funkcije apsolutne vrijednosti}{14}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}Omeđenost funkcije apsolutne vrijednosti}{14}{subsubsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.8}Injektivnost i surjektivnost funkcije apsolutne vrijednosti}{14}{subsubsection.2.3.8}%
+\contentsline {subsubsection}{\numberline {2.3.9}Inverz funkcije apsolutne vrijednosti}{15}{subsubsection.2.3.9}%
+\contentsline {subsection}{\numberline {2.4}Eksponencijalna funkcija}{15}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Domena i kodomena eksponencijalne funkcije}{15}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Graf eksponencijalne funkcije}{15}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Nultočke i točke u kojima graf sječe y-os eksponencijalne funkcije}{16}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Parnost i neparnost eksponencijalne funkcije}{16}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Periodičnost eksponencijalne funkcije}{16}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}Monotonost eksponencijalne funkcije}{16}{subsubsection.2.4.6}%
+\contentsline {subsubsection}{\numberline {2.4.7}Omeđenost eksponencijalne funkcije}{16}{subsubsection.2.4.7}%
+\contentsline {subsubsection}{\numberline {2.4.8}Injektivnost i surjektivnost eksponencijalne funkcije}{16}{subsubsection.2.4.8}%
+\contentsline {subsubsection}{\numberline {2.4.9}Inverz eksponencijalne funkcije}{16}{subsubsection.2.4.9}%
+\contentsline {subsection}{\numberline {2.5}Logaritamska funkcija}{17}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Domena i kodomena logaritamske funkcije}{17}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Graf logaritamske funkcije}{17}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Nultočke i točke u kojima graf sječe y-os logaritamske funkcije}{17}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Parnost i neparnost logaritamske funkcije}{17}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Periodičnost logaritamske funkcije}{17}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}Monotonost logaritamske funkcije}{17}{subsubsection.2.5.6}%
+\contentsline {subsubsection}{\numberline {2.5.7}Omeđenost logaritamske funkcije}{17}{subsubsection.2.5.7}%
+\contentsline {subsubsection}{\numberline {2.5.8}Injektivnost i surjektivnost logaritamske funkcije}{17}{subsubsection.2.5.8}%
+\contentsline {subsubsection}{\numberline {2.5.9}Inverz logaritamske funkcije}{17}{subsubsection.2.5.9}%
+\contentsline {subsection}{\numberline {2.6}Trigonometrijske funkcije}{18}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Domena i kodomena trigonometrijskih funkcija}{18}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Graf trigonometrijskih funkcija}{18}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Nultočke i točke u kojima graf sječe y-os trigonometrijskih funkcija}{18}{subsubsection.2.6.3}%
+\contentsline {subsubsection}{\numberline {2.6.4}Parnost i neparnost trigonometrijskih funkcija}{18}{subsubsection.2.6.4}%
+\contentsline {subsubsection}{\numberline {2.6.5}Periodičnost trigonometrijskih funkcija}{18}{subsubsection.2.6.5}%
+\contentsline {subsubsection}{\numberline {2.6.6}Monotonost trigonometrijskih funkcija}{18}{subsubsection.2.6.6}%
+\contentsline {subsubsection}{\numberline {2.6.7}Omeđenost trigonometrijskih funkcija}{18}{subsubsection.2.6.7}%
+\contentsline {subsubsection}{\numberline {2.6.8}Injektivnost i surjektivnost trigonometrijskih funkcija}{18}{subsubsection.2.6.8}%
+\contentsline {subsubsection}{\numberline {2.6.9}Inverz trigonometrijskih funkcija}{18}{subsubsection.2.6.9}%

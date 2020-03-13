@@ -1,0 +1,43 @@
+\documentclass[11pt, notitlepage, a4paper]{article}
+
+\usepackage[croatian]{babel}
+\usepackage[cm]{fullpage}
+\usepackage{titlesec}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{gensymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{hyperref}
+\usepackage{interval}
+\usepackage{physics}
+
+\usetikzlibrary{arrows,positioning,shapes,fit,calc}
+
+\pgfdeclarelayer{background}
+\pgfsetlayers{background,main}
+
+\title{Funkcije}
+\author{Martin Bakač}
+\date{\today}
+
+\titlelabel{\thetitle.\quad}
+
+\begin{document}
+    \maketitle
+    \begin{center}
+        Sažetak srednjoškolskog gradiva o funkcijama.
+        \\
+        Mentor: Nikola Lepen $\heartsuit$, prof.
+    \end{center}
+    \tableofcontents
+    \newpage
+    \section{Definicije}
+        \input{definicije/definicije.tex}
+    \newpage
+    \section{Funkcije}
+        \input{funkcije/funkcije.tex}
+\end{document}
